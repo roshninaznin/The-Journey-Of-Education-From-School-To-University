@@ -27,63 +27,60 @@ To experience the full journey, follow this sequence:
     - Press 1 → Displays a Welcome Message
 - School Area 🏫
     - Press 2 → Displays the School Scene
-- Classroom (Rain Song) 🌧️🎵
+- Classroom (Rain Rain Rhyme) 🌧️
     - Press 5 → Displays "Rain Rain Go Away" text
 - School Area Again (Bus Control Required) 🚌
-    - Press 2 → Control the Yellow Bus 🟡 to let students board
+    - Press 2 → Control the Yellow Bus 🟡 to let student to the bus
+- Transaction Scene
+    - Press 1 → Displays a "School to College" message
 - College Area (Bus Control Required) 🎓
-    - Press 3 → Control the Yellow Bus 🟡 to let students exit
+    - Press 3 → Control the Yellow Bus 🟡 to let student to the college
 - Classroom (SCIENCE) 🧪
     - Press 5 → Displays "SCIENCE" text
-- School Area Again (Bus Control Required) 🏫
-    - Press 3 → Control the bus for students to board
+- College Area Again (Bus Control Required) 🏫
+    - Press 3 → Control the bus for student to the bus
+- Transaction Scene
+    - Press 1 → Displays a "College to University" message
 - University (Bus Control Required) 🎓
-    - Press 4 → Control the Yellow Bus 🟡 to let students exit
+    - Press 4 → Control the Yellow Bus 🟡 to let student to the university
 - Classroom (Computer Graphics) 💻
     - Press 5 → Displays "Computer Graphics" text
 - University Again (Graduation Scene) 🎓
     - Press 4 → Shows graduated students 🎓
 - Transaction Scene (Thank You) 🙏
-    - Displays a "Thank You" message
+    - Press 1 → Displays a "Thank You" message
 
 
-- Windows7/Windows8/Windows10/Windows11
-- Visual Studio 2017 upto 22
-- .NET Framework
+## Controls
+ - Scene Selection
+    - Press the following keys for different scenes:
+
+      - 1 → Transaction (Welcome Scene)
+      - 2 → School Area
+      - 3 → College Area
+      - 4 → University
+      - 5 → Classroom
+ - Bus Controls
+      - 🚌 Yellow Bus (For Student Transport)
+             - Press 6 → Yellow Bus Stops
+             - Right Click Mouse → Move Yellow Bus Right
+      - 🚌 Blue Bus (For Student Transport)
+             - 7 → Blue Bus Stops
+             - Left Click Mouse → Move Blue Bus Left
+
 
 ## Installation
-
+Installation & Running the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/roshninaznin/Electronic-Voting-System-Application
+    git clone https://github.com/roshninaznin/The-Journey-Of-Education-From-School-To-University
     ```
-3. click open .sln file
-4. Go to Server Explorer
-5. Set up the SQL Server and ensure the `vote.mdf` database file is correctly placed in the project.
-6. Right Click vote.mdf and go to Properties
-7. Copy connection String
-8. Open DB.cs on VotingSystemRepository
-9. Edit ,and Paste the connection String And Save
-10. For demo data for Admin ID : 1, Username: Admin and Password : manager123
-11. Run the project.
+2. Install Dependencies
+Windows:
+Install freeglut and a C++ compiler like MinGW 
 
-## Modules
- - Admin
- - Voter
+3. Run the project.
 
-## Usage
-- Admins can:
-  - Log in, manage voters, elections, and candidates.
-  - View and monitor vote results.
-  
-![Admin](https://github.com/user-attachments/assets/000f9bf0-f5bc-46c5-a5ad-f34f8ff56ed3)
-
-
-- Voters can:
-  - Register, log in, select an election, vote and view results.
-    
-![Voter](https://github.com/user-attachments/assets/c57ac82d-4ed7-4e7c-8d1e-4ac90d584908)
-    
 
 ## Features
 
@@ -92,12 +89,10 @@ To experience the full journey, follow this sequence:
 - Dynamic management of voters and elections.
   
 ## Built With
- - C# - The language
- - Ms sql - Used Database
+ - CodeBlocks
+ - C++ - The language
+ - Open GL 
 
-## Contributing
-
-Feel free to submit pull requests or report issues. Follow the contribution guidelines mentioned in the repository.
 
 ## Contact
 
