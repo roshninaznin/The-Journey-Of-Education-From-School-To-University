@@ -1,4 +1,5 @@
-# The Journey of Education: From School to University 🎓🚍
+### The Journey of Education: From School to University 🎓🚍
+![Total Scene](https://github.com/user-attachments/assets/c6710822-c4a7-4461-8aa4-7fb4ca9db0c6)
 
 
 
