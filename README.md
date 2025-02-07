@@ -22,10 +22,10 @@ To experience the full journey, follow this sequence:
 
 ![Scene One by one](https://github.com/user-attachments/assets/c2c17a18-5b40-4681-8ec6-dec129b39ddb)
 
-1️⃣ Transaction Scene (Welcome) 🏫
-Press 1 → Displays a Welcome Message
-2️⃣ School Area 🏫
-Press 2 → Displays the School Scene
+- Transaction Scene (Welcome) 🏫
+    - Press 1 → Displays a Welcome Message
+- School Area 🏫
+    - Press 2 → Displays the School Scene
 3️⃣ Classroom (Rain Song) 🌧️🎵
 Press 5 → Displays "Rain Rain Go Away" text
 4️⃣ School Area Again (Bus Control Required) 🚌
