@@ -3,7 +3,7 @@
 
 
 
-## Overviewn
+## Overview
 The Journey of Education is an interactive OpenGL + GLUT simulation that visually represents a student's academic journey from school to university.
 
 The project includes:
