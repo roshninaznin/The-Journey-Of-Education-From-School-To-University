@@ -119,11 +119,8 @@ This project was built using the following technologies and tools:
   - .wav - Music format used for adding sound to the project.
 
 ## YouTube Link
-Watch the project demo on YouTube:
-
-<a href="https://www.youtube.com/playlist?list=PLLji3A7nrHi1THRtba2iksUOwsErVtnmp" target="_blank">
-  <img src="https://img.youtube.com/vi/PLLji3A7nrHi1THRtba2iksUOwsErVtnmp/maxresdefault.jpg" alt="Project Playlist" width="500"/>
-</a>
+Watch the project demo on YouTube:  
+[**The Journey of Education from School to University - Playlist**](https://www.youtube.com/playlist?list=PLLji3A7nrHi1THRtba2iksUOwsErVtnmp)
 
 
 ## Contact
