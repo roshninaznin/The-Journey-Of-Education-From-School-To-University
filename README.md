@@ -1,6 +1,6 @@
 # The Journey of Education: From School to University 🎓🚍
 
-![all_scene](https://github.com/allscene-attachments/assets/5f72dd7d-3d22-4fe3-9dbf-1556a62dc3de))
+![Scene One by one](https://github.com/user-attachments/assets/c2c17a18-5b40-4681-8ec6-dec129b39ddb)
 
 
 ## Description
