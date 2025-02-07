@@ -19,7 +19,6 @@ The simulation follows a structured flow where students travel via buses, attend
 
 
 ## Scenes & Flow
-
 To experience the full journey, follow this sequence:
 
 ![Scene One by one](https://github.com/user-attachments/assets/c2c17a18-5b40-4681-8ec6-dec129b39ddb)
@@ -64,10 +63,10 @@ To experience the full journey, follow this sequence:
    - 5 → Classroom
      
  - Bus Controls
-   - 🚌 Yellow Bus (For Student Transport)
+   -  Yellow Bus (For Student Transport)
        - Press 6 → Yellow Bus Stops
        - Right Click Mouse → Move Yellow Bus Right
-   - 🚌 Blue Bus (For Student Transport)
+   -  Blue Bus (For Student Transport)
       - 7 → Blue Bus Stops
       - Left Click Mouse → Move Blue Bus Left
 
@@ -118,6 +117,13 @@ This project was built using the following technologies and tools:
   - OpenGL - Graphics rendering for visual scenes.
   - GLUT - Library used for window management and user input handling.
   - .wav - Music format used for adding sound to the project.
+
+## YouTube Link
+Watch the project demo on YouTube:
+
+<a href="https://www.youtube.com/playlist?list=PLLji3A7nrHi1THRtba2iksUOwsErVtnmp" target="_blank">
+  <img src="https://img.youtube.com/vi/PLLji3A7nrHi1THRtba2iksUOwsErVtnmp/maxresdefault.jpg" alt="Project Playlist" width="500"/>
+</a>
 
 
 ## Contact
