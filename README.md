@@ -1,6 +1,6 @@
 # The Journey of Education: From School to University 🎓🚍
 
-![Total Scene](https://imgflip.com/gif/9jdv2w)
+![all_scene](https://imgflip.com/gif/9jdv2w)
 
 
 ## Description
