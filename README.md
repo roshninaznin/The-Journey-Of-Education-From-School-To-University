@@ -26,25 +26,24 @@ To experience the full journey, follow this sequence:
     - Press 1 → Displays a Welcome Message
 - School Area 🏫
     - Press 2 → Displays the School Scene
-3️⃣ Classroom (Rain Song) 🌧️🎵
-Press 5 → Displays "Rain Rain Go Away" text
-4️⃣ School Area Again (Bus Control Required) 🚌
-Press 2 → Control the Yellow Bus 🟡 to let students board
-5️⃣ College Area (Bus Control Required) 🎓
-Press 3 → Control the Yellow Bus 🟡 to let students exit
-6️⃣ Classroom (SCIENCE) 🧪
-Press 5 → Displays "SCIENCE" text
-7️⃣ School Area Again (Bus Control Required) 🏫
-Press 3 → Control the bus for students to board
-8️⃣ University (Bus Control Required) 🎓
-Press 4 → Control the Yellow Bus 🟡 to let students exit
-9️⃣ Classroom (Computer Graphics) 💻
-Press 5 → Displays "Computer Graphics" text
-🔟 University Again (Graduation Scene) 🎓
-Press 4 → Shows graduated students 🎓
-Control the bus to let them board 🚍
-🛑 Transaction Scene (Thank You) 🙏
-Displays a "Thank You" message
+- Classroom (Rain Song) 🌧️🎵
+    - Press 5 → Displays "Rain Rain Go Away" text
+- School Area Again (Bus Control Required) 🚌
+    - Press 2 → Control the Yellow Bus 🟡 to let students board
+- College Area (Bus Control Required) 🎓
+    - Press 3 → Control the Yellow Bus 🟡 to let students exit
+- Classroom (SCIENCE) 🧪
+    - Press 5 → Displays "SCIENCE" text
+- School Area Again (Bus Control Required) 🏫
+    - Press 3 → Control the bus for students to board
+- University (Bus Control Required) 🎓
+    - Press 4 → Control the Yellow Bus 🟡 to let students exit
+- Classroom (Computer Graphics) 💻
+    - Press 5 → Displays "Computer Graphics" text
+- University Again (Graduation Scene) 🎓
+    - Press 4 → Shows graduated students 🎓
+- Transaction Scene (Thank You) 🙏
+    - Displays a "Thank You" message
 
 
 - Windows7/Windows8/Windows10/Windows11
